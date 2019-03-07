@@ -1,1 +1,1 @@
-### Spring boot with Sqlite database
+### Spring boot with MySQL database
